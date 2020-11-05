@@ -1,9 +1,11 @@
 # mlo-template
 Template for a (MLO/MILO) interior creation.
 
-HOW TO MAKE INTERIOR (MLO) | TUTORIAL (STEP-TO-STEP):
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-(1): STEP ONE...
+## HOW TO MAKE INTERIOR (MLO) | TUTORIAL (STEP-TO-STEP):
+
+# (1): STEP ONE...
 	Abra o "CodeWalker" e procure por qualquer construção que desejar pelo mapa.
 
 (2): STEP TWO...
