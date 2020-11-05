@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>interior_template_milo_</imapName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray>
+        <Item>interior_template</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2>
+    <Item>
+      <itypName>interior_template</itypName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray>
+        <Item>v_bins</Item>
+      </itypDepArray>
+    </Item>
+  </itypDependencies_2>
+  <Interiors>
+    <Item>
+      <Name>interior_template_col</Name>
+      <Bounds>
+        <Item>interior_template_col</Item>
+      </Bounds>
+    </Item>
+  </Interiors>
+</CPackFileMetaData>
