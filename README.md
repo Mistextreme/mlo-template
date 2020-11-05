@@ -19,8 +19,7 @@ Template for a (MLO/MILO) interior creation.
   	Volte para o "CodeWalker" e utilize a ferramente de "COLISÃO" do mesmo, para encontra dois tipos de colisão, as quais serão: "HI" e "COLISÃO (PADRÃO)". Pesquise no "OpenIV" e exporte-as como "openFormats (.YBN) para uma pasta separada.
 
 # (6): STEP SIX...
-  	Volte para o "CodeWalker" e utilize a ferramenta de "OCLUSÃO" do mesmo, para encontrar todos os "OCLUSIONS" que não permitem a entrada do boneco na construção, sendo um arquivo ".YMAP". Procure-o no "OpenIV", clique em "EDITAR" e,
-em seguida, procura na aba "BOX" do CodeWalker, as COORDENADAS/TIPO DE OCLUSÃO do interior da construção. Apague/Delete essa BOX relacionada no arquivo ".YMAP" de OCLUSÃO da construção.
+  	Volte para o "CodeWalker" e utilize a ferramenta de "OCLUSÃO" do mesmo, para encontrar todos os "OCLUSIONS" que não permitem a entrada do boneco na construção, sendo um arquivo ".YMAP". Procure-o no "OpenIV", clique em "EDITAR" e, em seguida, procura na aba "BOX" do CodeWalker, as COORDENADAS/TIPO DE OCLUSÃO do interior da construção. Apague/Delete essa BOX relacionada no arquivo ".YMAP" de OCLUSÃO da construção.
 
 # (7): STEP SEVEN...
   	Abra o "3ds Max" e o "GIMS EVO".
